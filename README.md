@@ -1,2 +1,2 @@
 # CB-Consultancy-Site
-CodeBlacks Project
+CodesBlacks Project
